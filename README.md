@@ -3,7 +3,7 @@ Clean_data
 
 This is an instruction of run_analysis.R script.
 
-The script does the following in steps.
+The script does the following steps.
 
 1. reads from train folder and generates training dataset.
 2. reads from test folder and generates test dataset.
